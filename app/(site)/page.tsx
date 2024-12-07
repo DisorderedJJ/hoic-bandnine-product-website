@@ -80,6 +80,10 @@ export const metadata: Metadata = {
     "2024 AI IELTS preparation tools",
   ],
   title: "Personalized IELTS Practice with AI",
+  icons: {
+    icon: "/images/logo/bandnine-favicon.png"
+    
+  },
   openGraph: {
     description:
       "Boost your IELTS band score with personalized practice exams and real-time feedback powered by cutting-edge Artificial Intelligence. Experience tailored preparation designed to meet your unique needs and achieve your highest potential.",
